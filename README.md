@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AB0-0
-- 👀 I’m interested in Arts | Games | Music | Sports | Keebs
-- 🌱 I’m currently learning Web Development and OOP
+- 👀 I’m interested in Arts | Games | Music | Sports | Keebs | Tech Gadgets 
 - 📫 How to reach me: ashleejennifer.lee0@gmail.com
 
 <!---
